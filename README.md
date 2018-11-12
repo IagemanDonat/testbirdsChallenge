@@ -7,6 +7,7 @@ specified by user.
 
 
 On boot the said domain should send a request to the server, signalling it that the VM with <mac_adress> has started.
+Script, which sends this request is located under \src\main\resources\testbirds-challenge-vm.sh
 
 
 If user wants to check on VM status, it can be done by using /api/vm/status/<mac_address>, which should respond with message "VM: <vm_name> is <vm_state>" where VMs that have not responded are "initialised" and VMs that responded are "started"
