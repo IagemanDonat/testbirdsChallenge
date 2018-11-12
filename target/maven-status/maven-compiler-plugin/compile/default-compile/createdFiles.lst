@@ -1,0 +1,5 @@
+com/testbirdsChallenge/rest/VMService.class
+com/testbirdsChallenge/rest/VMController.class
+com/testbirdsChallenge/entity/VM.class
+com/testbirdsChallenge/app/VMApplication.class
+com/testbirdsChallenge/rest/VMServiceImpl.class

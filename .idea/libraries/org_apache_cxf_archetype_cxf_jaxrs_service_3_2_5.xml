@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="org.apache.cxf.archetype:cxf-jaxrs-service:3.2.5" type="repository">
+    <properties maven-id="org.apache.cxf.archetype:cxf-jaxrs-service:3.2.5" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/cxf/archetype/cxf-jaxrs-service/3.2.5/cxf-jaxrs-service-3.2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
